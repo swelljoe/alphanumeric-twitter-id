@@ -1,3 +1,13 @@
+/* Converted to an npm module from a script by Kevin van Zonneveld
+   <kevin@vanzonneveld.net> and Even Simon <even.simon@gmail.com>.
+
+usage:
+  var antwid = require('alphanumeric-twitter-id')
+  console.log(antwid.encode(904988993288319000))
+  console.log(antwid.decode('beQRqJj6fwE')
+
+*/
+
 var index = 'abcdefghijklmnopqrstuvwxyz0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 var bcpow = function(_a, _b){
