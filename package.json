@@ -19,7 +19,7 @@
     "url": "https://github.com/swelljoe/alphanumeric-twitter-id/issues"
   },
   "homepage": "https://github.com/swelljoe/alphanumeric-twitter-id#readme",
-  "dependencies": {
-    "uglify-js": "^3.0.28"
+  "devDependencies": {
+    "mocha": "^3.5.0"
   }
 }
