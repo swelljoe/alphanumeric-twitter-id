@@ -1,0 +1,25 @@
+{
+  "name": "alphanumeric-twitter-id",
+  "version": "1.0.0",
+  "description": "Encoder/Decoder for short Twitter IDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swelljoe/alphanumeric-twitter-id.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Joe Cooper <swelljoe@gmail.com> (http://swelljoe.com)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/swelljoe/alphanumeric-twitter-id/issues"
+  },
+  "homepage": "https://github.com/swelljoe/alphanumeric-twitter-id#readme",
+  "dependencies": {
+    "uglify-js": "^3.0.28"
+  }
+}
